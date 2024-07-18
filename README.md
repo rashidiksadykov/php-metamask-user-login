@@ -3,6 +3,14 @@
 Demo: https://setinblock.com/php-metamask-user-login
 
 
+
+  File modal.js 169
+
+  
+   // Переадресация на другую страницу после успешной авторизации
+  window.location.href = '/dashboard';
+
+              
 ### About
 
 Sign-in with Ethereum using MetaMask, PHP, JWT, and MySQL/PostgreSQL.
